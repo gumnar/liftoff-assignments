@@ -16,11 +16,13 @@ It will allow each user to create their own curated list of television shows com
 The user will have the ability to be notified when new episodes come out via text or email and will have the ability to set the frequency of such updates. 
 
 ### Features
-1. User Login -- Users will be able to create accounts and log into the app. Each user will have their own profile page 
+1.  User Login -- Users will be able to create accounts and log into the app. Each user will have their own profile page 
 2.	Watch List -- Users will be able to add shows to their watch lists
 3.	Search -- Users will be able to search for a given show in their watch list
 4.	Mark Watched -- Users will be able to mark a given show or episode as watched
 5.	Reminders -- Users will be able to request notifications based on a frequency they define (weekly, new episodes, new seasons, etc)
+----R2----
+1.  Import series data/artwork from OMDB via api calls
 
 ### Technologies
 1.	.Net MVC
