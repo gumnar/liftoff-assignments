@@ -8,8 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+Google Drive Wireframes Folder
+https://drive.google.com/open?id=1NwLun9rwYuMgWwreRIGXJLYEZX9M6D_Q
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://github.com/gumnar/LCLiftoff-Capstone/projects/1
